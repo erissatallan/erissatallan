@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 | **Backend & DB** | ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) |
 | **AI & Automation** | ![n8n](https://img.shields.io/badge/-n8n-FF6D5B?style=flat-square&logo=n8n&logoColor=white) ![Claude](https://img.shields.io/badge/-Claude%204.6-D97757?style=flat-square) ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white) |
 | **Cloud & DevOps** | ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx&logoColor=white) |
-| **Tools** | ![MacBook](https://img.shields.io/badge/-MacBook-999999?style=flat-square&logo=apple&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) |
+| **Tools** | ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) |
 
 ---
 
