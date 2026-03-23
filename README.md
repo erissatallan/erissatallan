@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 ---
 
-### 🛠️ The Stack
+### The Stack
 | Category | Tech & Tools |
 | :--- | :--- |
 | **Languages** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
@@ -33,26 +33,23 @@ Here are some ideas to get you started:
 
 ---
 
-### 🚀 Active Missions
-* **[Enterprise-Inbox-Management-Agent](https://github.com/erissatallan/Enterprise-Inbox-Management-Agent):** A microservice-oriented AI agent designed to categorize and handle high-volume corporate communication.
+### Active Missions
 * **Surveillance AI:** Developing a vehicle-counting and service-type classification system for carwashes in Kenya.
-* [cite_start]**EPRA Hackathon 2026:** Solving for *Optimal Tariff Design* and *Carbon Accounting* using data-driven insights. 
+* [cite_start]**EPRA Hackathon 2026:** Solving for *Optimal Tariff Design* and *Carbon Accounting* using data-driven insights at the EPRA hachathon. 
 
 ---
 
-### 📊 Vital Signs
-![Allan's GitHub stats](https://github-readme-stats.vercel.app/api?username=erissatallan&show_icons=true&theme=radical&rank_icon=github&count_private=true)
+### My top languages are
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erissatallan&layout=compact&theme=radical)
 
 ---
 
-### ♟️ Beyond the Code
-* **Mathematical Missives:** I enjoy deep dives into number theory and sharing them via traditional mail.
-* **Chess & Esports:** Running tournaments and analyzing strategies.
+### Beyond the Code
+* **Mathematical Missives:** I enjoy deep dives into applied mathematics and sharing them via expository writing.
 * **Webtoons:** Crafting the future of digital art at YoungToon.
 
 ---
 
 ### 📫 Reach Out
 * **Website:** [erissat.me](http://erissat.me/)
-* **Email:** Use the contact form on my site—it's powered by a custom SMTP setup!
+* **Email:** [aerissat@youngtoon.com](mailto:aerissat@youngtoon.com)!
