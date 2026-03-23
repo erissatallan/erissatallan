@@ -2,7 +2,7 @@
 
 > **"Bridging the gap between mathematical missives and scalable AI agents."**
 
-I'm a Kenya-based developer and entrepreneur obsessed with **Applied AI** and **Microservices**. Currently, I'm building surveillance solutions for local enterprises and managing digital art workflows at **YoungToon**. When I'm not vibe-coding, I'm likely sending mathematical missives to my pen pal or analyzing financial markets.
+I'm a curiosity-driven developer and entrepreneur obsessed with **Applied AI** and **beneficial frontier **. Currently, I'm building surveillance solutions for local enterprises and managing digital art workflows at **YoungToon**. When I'm not vibe-coding, I'm likely stydying math or reading poetry.
 <!--
 **erissatallan/erissatallan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 ### Active Missions
 * **Surveillance AI:** Developing a vehicle-counting and service-type classification system for carwashes in Kenya.
-* [cite_start]**EPRA Hackathon 2026:** Solving for *Optimal Tariff Design* and *Carbon Accounting* using data-driven insights at the EPRA hachathon. 
+* **EPRA Hackathon 2026:** Solving for *Optimal Tariff Design* and *Carbon Accounting* using data-driven insights at the EPRA hachathon. 
 
 ---
 
