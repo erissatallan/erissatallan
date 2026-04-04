@@ -1,8 +1,6 @@
 # Allan Erissat | AI Automations & Systems Architect
 
-> **"Bridging the gap between mathematical missives and scalable AI agents."**
-
-I'm a curiosity-driven developer and entrepreneur obsessed with **Applied AI** and **beneficial frontier **. Currently, I'm building surveillance solutions for local enterprises and managing digital art workflows at **YoungToon**. When I'm not vibe-coding, I'm likely stydying math or reading poetry.
+I'm a curiosity-driven developer and entrepreneur obsessed with **Applied Technology** and value add through technology. Currently, I'm building smart surveillance solutions for local enterprises and managing technology at **YoungToon**.
 <!--
 **erissatallan/erissatallan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,7 +11,7 @@ Here are some ideas to get you started:
 
 -->
 
-- 🔭 I’m currently working on diffusion models and agentic workflows at youngtoon.com.
+- 🔭 I’m currently working on a diffusion models and a Webtoon platform  at youngtoon.com.
 - 🌱 I’m learning agentic systems and cloud architecture.
 - 👯 I’m looking to collaborate on projects that apply artificial intelligence, applied mathematics and statistics.
 - 💬 Ask me about the use of mathematics and statistics to inform decision making in the corporate and industrial scenes.
@@ -35,8 +33,7 @@ Here are some ideas to get you started:
 ---
 
 ### Active Missions
-* **Surveillance AI:** Developing a vehicle-counting and service-type classification system for carwashes in Kenya.
-* **EPRA Hackathon 2026:** Solving for *Optimal Tariff Design* and *Carbon Accounting* using data-driven insights at the EPRA hachathon. 
+* **Surveillance AI:** Integrating a smart surveillance solution at a conglomerate's premises.
 
 ---
 
@@ -47,7 +44,6 @@ Here are some ideas to get you started:
 
 ### Beyond the Code
 * **Mathematical Missives:** I enjoy deep dives into applied mathematics and sharing them via expository writing.
-* **Webtoons:** Crafting the future of digital art at YoungToon.
 
 ---
 
