@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 ---
 
 ### My top languages are
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erissatallan&layout=compact&theme=radical" alt="Allan's Top Languages" width="400" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erissatallan&layout=compact&theme=radical&cache_seconds=1800" alt="Allan's Top Languages" width="400" />
 
 ---
 
