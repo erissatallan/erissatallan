@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 ---
 
 ### Beyond the Code
-* **Mathematical Missives:** I enjoy deep dives into applied mathematics and sharing them via ![expository writing](https://erissat.me/blog).
+* **Mathematical Missives:** I enjoy deep dives into applied mathematics and sharing them via [expository writing](https://erissat.me/blog).
 
 ---
 
