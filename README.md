@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - 🌱 I’m learning agentic systems and cloud architecture.
 - 👯 I’m looking to collaborate on projects that apply artificial intelligence, applied mathematics and statistics.
 - 💬 Ask me about the use of mathematics and statistics to inform decision-making in the corporate and industrial scenes.
-- 📫 How to reach me: aerissat@gmail.com
 
 - ⚡ Fun fact: You and I exchange gravitational waves all the time. We're texting through the fabric of space and time.
 
