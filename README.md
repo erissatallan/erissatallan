@@ -1,6 +1,6 @@
 # Allan Erissat | AI Automations & Systems Architect
 
-I'm a curiosity-driven developer and entrepreneur obsessed with **Applied Technology** and the value-add it delivers. Currently, I'm building smart surveillance solutions for local enterprises and maintaining technology at **YoungToon**.
+I'm a curiosity-driven developer and entrepreneur obsessed with **Applied Technology** and the value-add it delivers. Currently, I'm building AI agents for enterprises across the globe at Lua AI and intelligent surveillance solutions for Kenyan businesses.
 <!--
 **erissatallan/erissatallan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -11,12 +11,10 @@ Here are some ideas to get you started:
 
 -->
 
-- 🔭 I’m currently working on diffusion models and a Webtoon platform  at youngtoon.com.
-- 🌱 I’m learning agentic systems and cloud architecture.
-- 👯 I’m looking to collaborate on projects that apply artificial intelligence, applied mathematics and statistics.
+- 🔭 I’m currently working on shipping AI that isn't just a chatbot.
+- 🌱 I’m learning agentic systems and cloud infrastructure.
+- 👯 I’m looking to collaborate on projects that apply artificial intelligence, applied mathematics, and statistics.
 - 💬 Ask me about the use of mathematics and statistics to inform decision-making in the corporate and industrial scenes.
-
-- ⚡ Fun fact: You and I exchange gravitational waves all the time. We're texting through the fabric of space and time.
 
 ---
 
